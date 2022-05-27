@@ -1,0 +1,19 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <FileVersion>1.0.0.0</FileVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7f13cbf5-3e6d-4a36-85a6-b81330b95d2a}</ProjectGuid>
+    <SubObjectsSortedByName>True</SubObjectsSortedByName>
+    <DownloadApplicationInfo>true</DownloadApplicationInfo>
+    <WriteProductVersion>true</WriteProductVersion>
+    <GenerateTpy>false</GenerateTpy>
+    <Name>Core</Name>
+    <ProgramVersion>3.1.4023.0</ProgramVersion>
+    <Application>{23c0213b-f7d9-4761-88f2-eeb3731140ed}</Application>
+    <TypeSystem>{ab68f2b9-5b10-4da8-83b8-825773c1dc30}</TypeSystem>
+    <Implicit_Task_Info>{6f8aa4a1-e161-48e0-9c2c-4c62dce5ac88}</Implicit_Task_Info>
+    <Implicit_KindOfTask>{5128f7d7-cbc2-4019-8b79-e75debb093ae}</Implicit_KindOfTask>
+    <Implicit_Jitter_Distribution>{a07fe686-0c7a-400b-b978-c0290e4b9167}</Implicit_Jitter_Distribution>
+    <LibraryReferences>{6e55e986-ddb2-4817-871e-9968d3adab53}</LibraryReferences>
+  </PropertyGroup>
+</Project>
